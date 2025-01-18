@@ -17,6 +17,7 @@ ACTIVITIES = [
         "Text an old Friend",
         "Eat at a local Restaurants",
         "Clean for 10 minutes",
+        "Do a mindful breathing excersise",
         ]
 
 if __name__ == "__main__":
